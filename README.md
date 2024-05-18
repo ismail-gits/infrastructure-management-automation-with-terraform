@@ -11,8 +11,7 @@ infrastructure-management-automation-with-terraform/
 ├── aws-ec2-automation/
 │   ├── entry-script.sh
 │   ├── main.tf
-│   ├── terraform.tfvars
-│   └── README.md
+│   └── terraform.tfvars
 │
 ├── aws-ec2-module-automation/
 │   ├── modules/
@@ -25,15 +24,13 @@ infrastructure-management-automation-with-terraform/
 │   │       ├── outputs.tf
 │   │       └── variables.tf
 │   ├── outputs.tf
-│   ├── variables.tf
-│   └── README.md
+│   └── variables.tf
 │
 └── aws-eks-automation/
     ├── main.tf
     ├── nginx-kubernetes-config.yaml
     ├── terraform.tfvars
-    ├── vpc.tf
-    └── README.md
+    └── vpc.tf
 ```
 
 ### `aws-ec2-automation`
