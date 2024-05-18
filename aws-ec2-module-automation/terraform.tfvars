@@ -1,0 +1,8 @@
+vpc_cidr_block = "10.0.0.0/16"
+subnet_cidr_block = "10.0.10.0/24"
+availability_zone = "<>"
+env_prefix = "dev"
+my_ip = "<>"
+instance_type = "<>"
+public_key_location = "<>"
+image_name = "al2023-ami-*-x86_64"
